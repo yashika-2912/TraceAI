@@ -1,0 +1,5 @@
+{
+  "name": "TraceAI",
+  "description": "Attribution-first AI content generation with granular source tracking and integrity controls.",
+  "requestFramePermissions": []
+}
